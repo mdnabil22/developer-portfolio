@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.heading {
+    color: orange;
+}
+
+.flaxible {
+    display: flex;
+    margin-bottom: 100px;
+
+
+}
+
+.apple {
+    width: 50%;
+    padding: 5%;
+
+}
+
+.apple img {
+    width: 80%;
+
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 7px;
+    background: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+.second-page img {
+    width: 80%;
+}
+
+
+.bgimeage {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.exaria {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 5%;
+    
+
+
+}
+
+.experiencearia {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#zero{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#ero{
+    border-left: 10px solid;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 2;
+}
+footer p{
+    text-align: center;
+}
